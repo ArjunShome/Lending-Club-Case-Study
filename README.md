@@ -44,7 +44,7 @@
 
 
 ## Contributors
-Arjun Shome (Group Facilitator)
-Neelam Tom Sundar Rajeev
+- Arjun Shome (Group Facilitator)
+- Neelam Tom Sundar Rajeev
 
 Developed as part of the Exloratory Data Analysis Module required for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore.
