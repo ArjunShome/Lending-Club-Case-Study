@@ -4,7 +4,7 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Steps Followed] (#steps-followed)
+* [Steps](#steps-followed)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
